@@ -1,4 +1,5 @@
 class StaticPagesController < ApplicationController
+# Simple comment: Static pages actions
   def home
   end
 
